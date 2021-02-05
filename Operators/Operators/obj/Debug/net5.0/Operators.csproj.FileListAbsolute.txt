@@ -1,0 +1,15 @@
+/Users/janisha/repos/OperatorExercise/Operators/Operators/bin/Debug/net5.0/Operators.deps.json
+/Users/janisha/repos/OperatorExercise/Operators/Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/Users/janisha/repos/OperatorExercise/Operators/Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/Users/janisha/repos/OperatorExercise/Operators/Operators/bin/Debug/net5.0/Operators.dll
+/Users/janisha/repos/OperatorExercise/Operators/Operators/bin/Debug/net5.0/ref/Operators.dll
+/Users/janisha/repos/OperatorExercise/Operators/Operators/bin/Debug/net5.0/Operators.pdb
+/Users/janisha/repos/OperatorExercise/Operators/Operators/obj/Debug/net5.0/Operators.csprojAssemblyReference.cache
+/Users/janisha/repos/OperatorExercise/Operators/Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janisha/repos/OperatorExercise/Operators/Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/Users/janisha/repos/OperatorExercise/Operators/Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/Users/janisha/repos/OperatorExercise/Operators/Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/Users/janisha/repos/OperatorExercise/Operators/Operators/obj/Debug/net5.0/Operators.dll
+/Users/janisha/repos/OperatorExercise/Operators/Operators/obj/Debug/net5.0/ref/Operators.dll
+/Users/janisha/repos/OperatorExercise/Operators/Operators/obj/Debug/net5.0/Operators.pdb
+/Users/janisha/repos/OperatorExercise/Operators/Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache
